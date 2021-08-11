@@ -3,6 +3,8 @@ Exemplo de Factory com Dictionary
 
 ## Factory
 
+Utilizamos um Dictionary para armazenar pelo nome da logistica o tipo de logistica, o obtemos o tipo de logistica a partir da chave.
+
 ```c#
   public class LogisticaFactory
   {
